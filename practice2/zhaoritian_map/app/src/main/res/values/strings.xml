@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">zhaoritian_map</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="service_not_available">service_not_available</string>
+    <string name="invalid_lat_long_used">invalid_lat_long_used</string>
+    <string name="no_address_found">no_address_found</string>
+    <string name="address_found">address_found</string>
+    <string name="no_geocoder_available">no_geocoder_available</string>
+    <string name="no_location_data_provided">no_location_data_provided</string>
+</resources>

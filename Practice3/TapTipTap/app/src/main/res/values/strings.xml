@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TapTipTap</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="coordinates">Touch at some point in the canvas</string>
+</resources>
